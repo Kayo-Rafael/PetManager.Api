@@ -42,7 +42,3 @@ O principal objetivo deste projeto é estudar e praticar os seguintes conceitos:
 - Criar camada de domínio e aplicar regras de negócio
 
 ---
-
-Este projeto representa uma **fase de aprendizado**. Toda e qualquer sugestão de melhoria é bem-vinda!
-
----
